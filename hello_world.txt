@@ -1,0 +1,2 @@
+Este archivo es de prueba
+Bien esta es la segunda fase donde seguiremos probando este editor de texto.
